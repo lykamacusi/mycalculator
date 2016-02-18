@@ -1,4 +1,7 @@
-
+/**
+ * Author: Kristine Elaine P. Bautista
+ * Program Description: Calculator of Simple Mathematical Functions
+**/
 
 public class MyCalculator {
 	// add two numbers
